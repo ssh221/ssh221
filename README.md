@@ -1,3 +1,5 @@
+👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
+
 ## Tech Stacks
 
 | Category | Stack |
@@ -24,8 +26,8 @@
 
 | Date | Certification |
 | :--- | :--- |
-| **2025** | **정보처리기사** |
-| **2024** | **SQL 개발자(SQLD)** |
+| **2025** | **정보처리기사 (Engineer Information Processing)** |
+| **2024** | **SQL 개발자 (SQLD)** |
 
 <br>
 
@@ -53,3 +55,11 @@
 | **Build Automation** | Docker 기반 빌드 파이프라인 자동화 구성 | [🔗 Link](https://github.com/syunghyuk-jaeheon-team/build-automation-study) |
 | **ELK** | Elasticsearch, Logstash, Kibana 활용 카드 소비 데이터 분석 | [🔗 Link](https://github.com/fisa-tech-seminar/ELK-project) |
 | **Java Stream** | Java Stream API에서 흔히 발생하는 실수 사례 연구 | [🔗 Link](https://github.com/ssh221/Common-Mistakes-In-Java-Streams) |
+
+<br>
+
+## Contact
+
+| Channel | Address |
+| :--- | :--- |
+| **Email** | ssh221@naver.com |
