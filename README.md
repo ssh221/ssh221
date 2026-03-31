@@ -20,6 +20,15 @@
 
 <br>
 
+## Certifications
+
+| Date | Certification |
+| :--- | :--- |
+| **2025** | **정보처리기사** |
+| **2024** | **SQL 개발자(SQLD)** |
+
+<br>
+
 ## Projects
 
 | Period | Project Name | Link |
