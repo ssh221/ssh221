@@ -27,5 +27,8 @@
 | **2026.03 - 2026.03** | **VMware 가상화 인프라 구축 프로젝트** | [🔗 Link](https://github.com/FISA-VMware-Team2/VMware-proj) |
 | **2026.02 - 2026.02** | **DB 이중화 HA 프로젝트** | [🔗 Link](https://github.com/fisa-tech-seminar/HA-project) |
 | **2026.01 - 2026.01** | **n8n 기반 이상금융거래(FDS) 대응 자동화 프로젝트** | [🔗 Link](https://github.com/minwoo-00/n8n-financial-fraud-response) |
+| **2025.11 - 2025.12** | **개인 정보 마스킹 NER 모델 및 알고리즘 개발** | [🔗 Link]() |
+| **2025.09 - 2025.10** | **키워드 데이터 네트워크 분석** | [🔗 Link]() |
+| **2025.07 - 2025.09** | **STT 한글 숫자 표현 변환 알고리즘 개발** | [🔗 Link]() |
 | **2025.03 - 2025.06** | **데이터 기반 축구 경기 스코어 예측 프로젝트** | [🔗 Link](https://github.com/ssh221/PREMO) |
 | **2024.09 - 2025.02** | **법률 도메인 판결문 NER 프로젝트** | [🔗 Link](https://github.com/INHA-NER/ner) |
