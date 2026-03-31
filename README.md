@@ -24,11 +24,23 @@
 
 | Period | Project Name | Link |
 | :--- | :--- | :--- |
-| **2026.03 - 2026.03** | **VMware 가상화 인프라 구축 프로젝트** | [🔗 Link](https://github.com/FISA-VMware-Team2/VMware-proj) |
-| **2026.02 - 2026.02** | **DB 이중화 HA 프로젝트** | [🔗 Link](https://github.com/fisa-tech-seminar/HA-project) |
-| **2026.01 - 2026.01** | **n8n 기반 이상금융거래(FDS) 대응 자동화 프로젝트** | [🔗 Link](https://github.com/minwoo-00/n8n-financial-fraud-response) |
+| **2026.03** | **VMware 가상화 인프라 구축 프로젝트** | [🔗 Link](https://github.com/FISA-VMware-Team2/VMware-proj) |
+| **2026.02** | **DB 이중화 HA 프로젝트** | [🔗 Link](https://github.com/fisa-tech-seminar/HA-project) |
+| **2026.01** | **n8n 기반 이상금융거래(FDS) 대응 자동화 프로젝트** | [🔗 Link](https://github.com/minwoo-00/n8n-financial-fraud-response) |
 | **2025.11 - 2025.12** | **개인 정보 마스킹 NER 모델 및 알고리즘 개발** | [🔗 Link]() |
 | **2025.09 - 2025.10** | **키워드 데이터 네트워크 분석** | [🔗 Link]() |
 | **2025.07 - 2025.09** | **STT 한글 숫자 표현 변환 알고리즘 개발** | [🔗 Link]() |
 | **2025.03 - 2025.06** | **데이터 기반 축구 경기 스코어 예측 프로젝트** | [🔗 Link](https://github.com/ssh221/PREMO) |
 | **2024.09 - 2025.02** | **법률 도메인 판결문 NER 프로젝트** | [🔗 Link](https://github.com/INHA-NER/ner) |
+
+<br>
+
+## Studies
+
+| Topic | Description | Link |
+| :--- | :--- | :--- |
+| **Kubernetes** | k8s 기초 학습 후 복기용 문제 | [🔗 Link](https://github.com/ssh221/k8s-study) |
+| **Docker Optimization** | Docker 이미지 빌드 및 레이어 최적화 | [🔗 Link](https://github.com/syunghyuk-jaeheon-team/build_optimization) |
+| **Build Automation** | Docker 기반 빌드 파이프라인 자동화 구성 | [🔗 Link](https://github.com/syunghyuk-jaeheon-team/build-automation-study) |
+| **ELK** | Elasticsearch, Logstash, Kibana 활용 카드 소비 데이터 분석 | [🔗 Link](https://github.com/fisa-tech-seminar/ELK-project) |
+| **Java Stream** | Java Stream API에서 흔히 발생하는 실수 사례 연구 | [🔗 Link](https://github.com/ssh221/Common-Mistakes-In-Java-Streams) |
