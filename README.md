@@ -67,9 +67,10 @@
 
 |   Period   | Project                                                                                    | Description                                      |
 | :---------: | :----------------------------------------------------------------------------------------- | :----------------------------------------------- |
-| `2026.03` | [**VMware 가상화 인프라 구축**](https://github.com/FISA-VMware-Team2/VMware-proj)       | VMware 기반 가상화 인프라 설계 및 구축           |
-| `2026.02` | [**DB 이중화 HA 프로젝트**](https://github.com/fisa-tech-seminar/HA-project)            | MariaDB / Redis HA 이중화 구성                   |
-| `2026.01` | [**FDS 대응 자동화 (n8n)**](https://github.com/minwoo-00/n8n-financial-fraud-detection) | n8n 기반 이상금융거래 감지 자동화 파이프라인     |
+| `2026.04` | **모의투자 플랫폼 하이브리드 클라우드 구축 (매순간)**                                     | AWS EKS + On-prem VMware 하이브리드 인프라, Terraform IaC(59개 리소스), Site-to-Site VPN, DR 자동화(Orchestrator, MTTR<10s), Prometheus/Grafana/Loki 모니터링 |
+| `2026.03` | [**VMware 가상화 인프라 구축**](https://github.com/ssh221/VMware-proj)       | VMware 기반 가상화 인프라 설계 및 구축           |
+| `2026.02` | [**고가용성 디지털 지갑 서비스**](https://github.com/ssh221/HA-project)            | MariaDB / Redis HA 이중화 구성                   |
+| `2026.01` | [**FDS 대응 자동화 (n8n)**](https://github.com/ssh221/n8n-financial-fraud-response) | n8n 기반 이상금융거래 감지 자동화 파이프라인     |
 | `2025.11` | **개인정보 마스킹 NER 모델 개발**                                                    | 비정형 텍스트 내 개인정보 탐지 NER 알고리즘 개발 |
 | `2025.09` | **키워드 데이터 네트워크 분석**                                                      | 텍스트 기반 키워드 관계 네트워크 시각화          |
 | `2025.07` | **STT 한글 숫자 변환 알고리즘 개발**                                                 | STT 결과물 내 숫자 표현 정규화 알고리즘          |
@@ -83,9 +84,9 @@
 | Topic                         | Description                        |                                Link                                |
 | :---------------------------- | :--------------------------------- | :-----------------------------------------------------------------: |
 | **Kubernetes**          | k8s 기초 학습 및 복기용 문제       |               [🔗](https://github.com/ssh221/k8s-study)               |
-| **Docker Optimization** | 이미지 빌드 및 레이어 최적화       |   [🔗](https://github.com/syunghyuk-jaeheon-team/build_optimization)   |
-| **Build Automation**    | Docker 기반 빌드 파이프라인 자동화 | [🔗](https://github.com/syunghyuk-jaeheon-team/build-automation-study) |
-| **ELK Stack**           | 카드 소비 데이터 분석              |         [🔗](https://github.com/fisa-tech-seminar/ELK-project)         |
+| **Docker Optimization** | 이미지 빌드 및 레이어 최적화       |   [🔗](https://github.com/ssh221/build_optimization)   |
+| **Build Automation**    | Docker 기반 빌드 파이프라인 자동화 | [🔗](https://github.com/ssh221/build-automation-study) |
+| **ELK Stack**           | 카드 소비 데이터 분석              |         [🔗](https://github.com/ssh221/ELK-project)         |
 | **Java Stream**         | Stream API 흔한 실수 사례 연구     |    [🔗](https://github.com/ssh221/Common-Mistakes-In-Java-Streams)    |
 
 <br>
