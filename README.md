@@ -67,7 +67,7 @@
 
 |   Period   | Project                                                                                    | Description                                      |
 | :---------: | :----------------------------------------------------------------------------------------- | :----------------------------------------------- |
-| `2026.04` | **모의투자 플랫폼 하이브리드 클라우드 구축 (매순간)**                                     | AWS EKS + On-prem VMware 하이브리드 인프라, Terraform IaC(59개 리소스), Site-to-Site VPN, DR 자동화(Orchestrator, MTTR<10s), Prometheus/Grafana/Loki 모니터링 |
+| `2026.04` | **하이브리드 클라우드 모의투자 서비스**(https://github.com/MaeSoonGan)                                     | AWS EKS + On-prem VMware 하이브리드 인프라, Terraform IaC(59개 리소스), Site-to-Site VPN, DR 자동화(Orchestrator, MTTR<10s), Prometheus/Grafana/Loki 모니터링 |
 | `2026.03` | [**VMware 가상화 인프라 구축**](https://github.com/ssh221/VMware-proj)       | VMware 기반 가상화 인프라 설계 및 구축           |
 | `2026.02` | [**고가용성 디지털 지갑 서비스**](https://github.com/ssh221/HA-project)            | MariaDB / Redis HA 이중화 구성                   |
 | `2026.01` | [**FDS 대응 자동화 (n8n)**](https://github.com/ssh221/n8n-financial-fraud-response) | n8n 기반 이상금융거래 감지 자동화 파이프라인     |
