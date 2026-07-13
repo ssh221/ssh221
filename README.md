@@ -44,7 +44,7 @@
 | :---: | :--- | :--- |
 | `2026.04‑2026.06` | [**하이브리드 클라우드 모의투자 서비스**](https://github.com/MaeSoonGan) | AWS EKS + On-prem 하이브리드 클라우드, Terraform IaC, DR, HA |
 | `2026.03‑2026.04` | [**vSphere 가상화 인프라 구축**](https://github.com/ssh221/VMware-proj) | vSphere 기반 가상화 인프라 설계 및 구축 |
-| `2026.02‑2026.03` | [**고가용성 디지털 지갑 서비스**](https://github.com/ssh221/HA-project) | MariaDB / Redis HA 이중화 구성 |
+| `2026.02‑2026.03` | [**고가용성 디지털 지갑 서비스**](https://github.com/ssh221/HA-project) | MySQL / Redis HA 이중화 구성 |
 | `2026.01‑2026.02` | [**FDS 대응 자동화 (n8n)**](https://github.com/ssh221/n8n-financial-fraud-response) | n8n 기반 이상금융거래 감지 자동화 |
 | `2025.03‑2025.06` | [**축구 경기 스코어 예측 (PREMO)**](https://github.com/ssh221/PREMO) | 데이터 기반 축구 경기 결과 예측 |
 | `2024.09‑2025.02` | [**법률 판결문 NER**](https://github.com/INHA-NER/ner) | 법률 도메인 개체명 인식(NER) 개발 |
